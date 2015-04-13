@@ -13,10 +13,10 @@
 <div id="slideshow">
 
 	<ul class="slides">
-    	<li><img src="img/photos/1.jpg" width="620" height="320" /></li>
-      <li><img src="img/photos/2.jpg" width="620" height="320" /></li>
-      <li><img src="img/photos/3.jpg" width="620" height="320" /></li>
-      <li><img src="img/photos/4.jpg" width="620" height="320" /></li>
+    	<li><img src="img/photos/1.JPG" width="620" height="320" /></li>
+      <li><img src="img/photos/2.JPG" width="620" height="320" /></li>
+      <li><img src="img/photos/3.JPG" width="620" height="320" /></li>
+      <li><img src="img/photos/4.JPG" width="620" height="320" /></li>
       <li><img src="img/photos/5.JPG" width="620" height="320" /></li>
       <li><img src="img/photos/6.JPG" width="620" height="320" /></li>
       <li><img src="img/photos/7.JPG" width="620" height="320" /></li>
@@ -25,7 +25,7 @@
       <li><img src="img/photos/10.JPG" width="620" height="320" /></li>
       <li><img src="img/photos/11.JPG" width="620" height="320" /></li>
       <li><img src="img/photos/12.JPG" width="620" height="320" /></li>
-      <li><img src="img/photos/13.JPG" width="620" height="320" /></li>
+      
     </ul>
 
     <span class="arrow previous"></span>
@@ -33,8 +33,7 @@
 </div>
 
 
-<br/>
-<br/>
+<p class="tzine"><a href="http://tutorialzine.com/2010/09/html5-canvas-slideshow-jquery/">Read &amp; Download on Tutorialzine</a></p>
 <p class="credit">created by CocoJoe for Lele</p>
     
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
